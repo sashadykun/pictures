@@ -21,5 +21,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashadykun/pictures.git"
+  },
+  "author": "Sasha Dykun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashadykun/pictures/issues"
+  },
+  "homepage": "https://github.com/sashadykun/pictures#readme",
+  "description": ""
 }
