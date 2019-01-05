@@ -1,0 +1,4 @@
+export default {
+    API_KEY: 'unsplash API KEY',
+    SECRET_KEY: 'unsplash Secret Key'
+}
